@@ -1,0 +1,73 @@
+* {
+  font-family: "Merriweather", serif;
+}
+.heading {
+  display: flex;
+  align-items: center; /*this is for y axix */
+  justify-content: center; /*this is for x axix */
+}
+h1 {
+  background-color: gray;
+  border-radius: 5px;
+  padding: 5px;
+  color: rgb(234, 221, 149);
+  font-variant: revert;
+}
+img {
+  /* width: 300px;
+    height: 300px; */
+  border-radius: 50%;
+}
+h3 {
+  background-color: aliceblue;
+  border-radius: 5px;
+  padding: 5px;
+  color: rgb(234, 221, 149);
+  border-color: blueviolet;
+  border-width: 20px;
+}
+p {
+  border-width: 5px;
+  border-color: aquamarine;
+  border-style: groove;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: white;
+}
+.two {
+  border-width: 5px;
+  border-color: rgb(17, 196, 136);
+}
+#three {
+  border-width: 5px;
+  border-color: rgb(10, 148, 102);
+}
+body {
+  background-image: url("https://images.pexels.com/photos/2859169/pexels-photo-2859169.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: lighten;
+  background-color: rgba(50, 50, 50, 0.8);
+}
+.background {
+  background-color: white;
+  border-color: aquamarine;
+  border-radius: 5px;
+  border-style: groove;
+  padding: 20px;
+}
+
+h3 {
+  background-color: gray;
+  border-color: blueviolet;
+}
+table {
+    width: 80vw;
+  
+    
+}
+
+td {
+    text-align: center;
+   }
